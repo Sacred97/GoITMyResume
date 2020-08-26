@@ -1,0 +1,122 @@
+.about-me {
+  margin-bottom: 64px;
+}
+
+.about-me h1, .about-me h2 {
+  margin-bottom: 24px;
+}
+
+.about-me h2 {
+  font-size: 14px;
+}
+
+.about-me h1 {
+  font-size: 45px;
+}
+
+.about-me div {
+  width: 413px;
+}
+
+.about-me div > p {
+  font-size: 14px;
+  color: #595959;
+  line-height: 24px;
+}
+
+.project-container {
+  margin-bottom: 52px;
+}
+
+.project-container h3 {
+  margin-bottom: 11px;
+  font-size: 22px;
+}
+
+.project-list {
+  list-style-position: inside;
+  font-weight: 700;
+}
+
+.project-list li:nth-child(1) {
+  padding-left: 3.2px;
+}
+
+.project-item a {
+  padding-left: 9px;
+  font-weight: 400;
+  color: #595959;
+}
+
+.project-item a:hover {
+  color: #660000;
+}
+
+.project-item span:nth-child(2) {
+  font-weight: 400;
+  color: #595959;
+}
+
+.project-item span:nth-child(3) {
+  font-weight: 400;
+}
+
+.Company-container h3 {
+  margin-bottom: 18px;
+  font-size: 22px;
+}
+
+.My-company h4 {
+  margin-bottom: 14px;
+  font-size: 16px;
+}
+
+.My-company h4 span {
+  color: #ff6b08;
+}
+
+.My-company ul {
+  list-style-position: inside;
+  color: #595959;
+  font-size: 14px;
+  width: 535px;
+}
+
+.company-one ul {
+  margin-bottom: 24px;
+}
+
+.work-year {
+  display: block;
+  margin-bottom: 14px;
+  color: #a8a8a8;
+  font-size: 12px;
+}
+
+.work-year span {
+  color: #000;
+}
+
+.company-two ul {
+  margin-bottom: 31px;
+}
+
+.company-three ul {
+  margin-bottom: 55px;
+}
+
+.education h3 {
+  margin-bottom: 21px;
+  font-size: 22px;
+}
+
+.education h4 {
+  margin-bottom: 15px;
+  font-size: 16px;
+  color: #ff6b08;
+}
+
+.education h5 {
+  font-size: 14px;
+  margin-bottom: 14px;
+}
