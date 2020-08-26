@@ -15,7 +15,6 @@ body {
 .wrapper {
     display: flex;
     max-width: 1200px;
-    height: 1319px;
     box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
     background-color: #fff;
 }
@@ -24,7 +23,6 @@ body {
 .aside {
     max-width: 370px;
     background-color: #1e2939;
-    height: 1319px;
 }
 
 .aside img {
